@@ -1,7 +1,7 @@
 # 📊 Survey / Feedback Application
 
-A full-stack Survey & Feedback Application that allows users to create surveys, collect responses, and view real-time analytics with charts.
-
+A full-stack Survey & Feedback Application built as part of a Full Stack Developer Intern task.
+The application allows users to create surveys, submit responses, and view survey results.
 
 ## 🚀 Features
 
@@ -80,7 +80,7 @@ A full-stack Survey & Feedback Application that allows users to create surveys, 
 
  Clone the repo
    ```bash
-   git clone 
+   git clone https://github.com/arunjo96/survey-app.git
 
 
 
